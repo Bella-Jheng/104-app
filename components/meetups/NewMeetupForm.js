@@ -875,7 +875,7 @@ function NewMeetupForm() {
       <form
         className={classes.secondForm}
         id="form"
-        action="https://pda.104-dev.com.tw/activate/preparative"
+        action="https://pda.104-staging.com.tw/activate/preparative"
         method="post"
         target="_blank"
       >
