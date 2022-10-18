@@ -938,12 +938,6 @@ function NewMeetupForm() {
         駕駛執照代碼 driveCert[1]
         <input name="info[driveCert][1]" defaultValue=""></input>
         <br />
-        駕駛執照代碼 driveCert[2]
-        <input name="info[driveCert][2]" defaultValue=""></input>
-        <br />
-        駕駛執照代碼 driveCert[3]
-        <input name="info[driveCert][3]" defaultValue=""></input>
-        <br />
         駕駛執照代碼 1:輕型機車駕照 2:普通重型機車駕照 4:大型重型機車駕照
         8:普通小型車駕照 16:普通大貨車駕照 32:普通大客車駕照 64:普通聯結車駕照
         128:職業小型車駕照 256:職業大貨車駕照 512:職業大客車駕照
@@ -984,24 +978,6 @@ function NewMeetupForm() {
         科系類別 departments[1] type[0]
         <input
           name="education[departments][1][type][0]"
-          defaultValue=""
-        ></input>
-        <br />
-        科系名稱 departments[2] name
-        <input name="education[departments][2][name]" defaultValue=""></input>
-        <br />
-        科系類別 departments[2] type[0]
-        <input
-          name="education[departments][2][type][0]"
-          defaultValue=""
-        ></input>
-        <br />
-        科系名稱 departments[3] name
-        <input name="education[departments][3][name]" defaultValue=""></input>
-        <br />
-        科系類別 departments[3] type[0]
-        <input
-          name="education[departments][3][type][0]"
           defaultValue=""
         ></input>
         <br />
@@ -1102,21 +1078,6 @@ function NewMeetupForm() {
         <br />
         希望地點 類目代碼 preferArea[1]
         <input name="jobCondition[preferArea][1]" defaultValue=""></input>
-        <br />
-        希望地點 類目代碼 preferArea[2]
-        <input name="jobCondition[preferArea][2]" defaultValue=""></input>
-        <br />
-        希望地點 類目代碼 preferArea[3]
-        <input name="jobCondition[preferArea][3]" defaultValue=""></input>
-        <br />
-        希望地點 類目代碼 preferArea[4]
-        <input name="jobCondition[preferArea][4]" defaultValue=""></input>
-        <br />
-        希望地點 類目代碼 preferArea[5]
-        <input name="jobCondition[preferArea][5]" defaultValue=""></input>
-        <br />
-        希望地點 類目代碼 preferArea[6]
-        <input name="jobCondition[preferArea][6]" defaultValue=""></input>
         <br />
         希望職稱 preferJobTitle
         <input name="jobCondition[preferJobTitle]" defaultValue=""></input>
